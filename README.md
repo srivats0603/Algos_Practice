@@ -9,3 +9,4 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 "medianSortedArrays.py" - This finds the median of two sorted arrays using merge sort in O(log(m+n)). 
 "reverse_integer.py" - Given a 32-bit signed integer, reverse digits of an integer. This implementation does not use strings.
 "two_sum_easy.py" - Given an array of integers, returns indices of the two numbers such that they add up to a specific target.
+"valid_parentheses.py" - Given a string, check if different types of paranthesis are balanced. 
