@@ -29,6 +29,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "strStr.py" - needle and haystack problem, find the position of substring in a string, and return -1 if it does not exist.
 
+"string_to_integer.py" - this implements a function which converts a string into the integer (assuming 32 bit machine), similar to "atoi"
+
 "two_sum_easy.py" - Given an array of integers, returns indices of the two numbers such that they add up to a specific target.
 
 "valid_anagram_basic.py" - Given two strings, finds if one string is a valid anagram of the other, using O(n^2) time.
