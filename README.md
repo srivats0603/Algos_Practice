@@ -7,6 +7,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "fibonacci_memo.py" - Generate fibonacci nth term using recursion and memoization.
 
+"insertion_sort.py" - Basic insertion sort algorithm. 
+
 "length_longest_substr.py" - Given a string, find the length of the longest substring without repeating characters.
 
 "long_common_prefix.py" - This finds the longest common prefix string amongst an array of strings.
