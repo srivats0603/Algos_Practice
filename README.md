@@ -19,6 +19,10 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "mergeIntervals.py" - Given a collection of intervals, merge all overlapping intervals. This implementation is slow and uses lot of memory, needs to be simplified.
 
+"remv_duplicates.py" - Given a sorted array, removes the duplicates in-place such that each element appear only once and returns the new length.
+
+"remv_elem.py" - Given an array nums and a value val, removes all instances of that value in-place and returns the new length
+
 "reverse_integer.py" - Given a 32-bit signed integer, reverse digits of an integer. This implementation does not use strings.
 
 "strStr.py" - needle and haystack problem, find the position of substring in a string, and return -1 if it does not exist.
