@@ -1,7 +1,7 @@
 # Algos_Practice
 Practice Questions from where website like Leetcode, HackerRank amd general algorithms
 
-"countNsay.py" - Generate nth term of Count and Say sequence using iterative method.
+"count_n_say.py" - Generate nth term of Count and Say sequence using iterative method.
 
 "fibonacci.py" - Generate fibonacci nth term using simple recursion.
 
@@ -13,11 +13,11 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "long_common_prefix.py" - This finds the longest common prefix string amongst an array of strings.
 
-"medianSortedArrays.py" - This finds the median of two sorted arrays using merge sort in O(log(m+n)). 
+"median_sorted_arrays.py" - This finds the median of two sorted arrays using merge sort in O(log(m+n)). 
 
-"mergeArrays.py" - Basic merge O(log(m+n)) algorithm for merging two sorted lists. 
+"merge_arrays.py" - Basic merge O(log(m+n)) algorithm for merging two sorted lists. 
 
-"mergeIntervals.py" - Given a collection of intervals, merge all overlapping intervals. This implementation is slow and uses lot of memory, needs to be simplified.
+"merge_intervals.py" - Given a collection of intervals, merge all overlapping intervals. This implementation is slow and uses lot of memory, needs to be simplified.
 
 "remv_duplicates.py" - Given a sorted array, removes the duplicates in-place such that each element appear only once and returns the new length.
 
