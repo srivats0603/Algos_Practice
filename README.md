@@ -25,6 +25,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "reverse_integer.py" - Given a 32-bit signed integer, reverse digits of an integer. This implementation does not use strings.
 
+"search_insert.py" - Given a sorted array and a target value, uses binary search to return the index where the target should be inserted in the array.
+
 "strStr.py" - needle and haystack problem, find the position of substring in a string, and return -1 if it does not exist.
 
 "two_sum_easy.py" - Given an array of integers, returns indices of the two numbers such that they add up to a specific target.
