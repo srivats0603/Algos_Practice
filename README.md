@@ -15,6 +15,10 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "medianSortedArrays.py" - This finds the median of two sorted arrays using merge sort in O(log(m+n)). 
 
+"mergeArrays.py" - Basic merge O(log(m+n)) algorithm for merging two sorted lists. 
+
+"mergeIntervals.py" - Given a collection of intervals, merge all overlapping intervals. This implementation is slow and uses lot of memory, needs to be simplified.
+
 "reverse_integer.py" - Given a 32-bit signed integer, reverse digits of an integer. This implementation does not use strings.
 
 "strStr.py" - needle and haystack problem, find the position of substring in a string, and return -1 if it does not exist.
