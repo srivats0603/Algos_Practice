@@ -21,4 +21,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "two_sum_easy.py" - Given an array of integers, returns indices of the two numbers such that they add up to a specific target.
 
+"valid_anagram_basic.py" - Given two strings, finds if one string is a valid anagram of the other, using O(n^2) time.
+
+"valid_anagram_hash.py" - Given two strings, find if one string is a valid anagram of the other, using hashmap implementation and O(n) time. 
+
 "valid_parentheses.py" - Given a string, check if different types of paranthesis are balanced. 
