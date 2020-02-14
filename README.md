@@ -17,6 +17,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "merge_arrays.py" - Basic merge O(log(m+n)) algorithm for merging two sorted lists. 
 
+"palindrome_num.py" - simple algo to determine if a number is a palindrome, without using any string conversions. 
+
 "merge_intervals.py" - Given a collection of intervals, merge all overlapping intervals. This implementation is slow and uses lot of memory, needs to be simplified.
 
 "remv_duplicates.py" - Given a sorted array, removes the duplicates in-place such that each element appear only once and returns the new length.
