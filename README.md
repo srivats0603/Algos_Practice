@@ -1,6 +1,8 @@
 # Algos_Practice
 Practice Questions from where website like Leetcode, HackerRank amd general algorithms
 
+"add_binary.py" - takes two binary numbers as input in form of strings, and returns their sum as output as a string
+
 "count_n_say.py" - Generate nth term of Count and Say sequence using iterative method.
 
 "fibonacci.py" - Generate fibonacci nth term using simple recursion.
