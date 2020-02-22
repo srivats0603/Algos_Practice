@@ -11,6 +11,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "length_longest_substr.py" - Given a string, find the length of the longest substring without repeating characters.
 
+"length_last_word.py" - Given a string, finds the length of last valid word (no-whitespaces).
+
 "long_common_prefix.py" - This finds the longest common prefix string amongst an array of strings.
 
 "median_sorted_arrays.py" - This finds the median of two sorted arrays using merge sort in O(log(m+n)). 
@@ -19,13 +21,19 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "palindrome_num.py" - simple algo to determine if a number is a palindrome, without using any string conversions. 
 
+"plus_one.py" - given non-empty array of digits representing a non-negative integer, this adds one to the integer and returns the integer in array format. 
+
 "merge_intervals.py" - Given a collection of intervals, merge all overlapping intervals. This implementation is slow and uses lot of memory, needs to be simplified.
+
+"multipy_string.py" - Given two integers in form of strings, this multiplies and returns an integer without explicit string to integer conversion.
 
 "remv_duplicates.py" - Given a sorted array, removes the duplicates in-place such that each element appear only once and returns the new length.
 
-"remv_elem.py" - Given an array nums and a value val, removes all instances of that value in-place and returns the new length
+"remv_elem.py" - Given an array nums and a value val, this removes all instances of that value in-place and returns the new length
 
-"reverse_integer.py" - Given a 32-bit signed integer, reverse digits of an integer. This implementation does not use strings.
+"reverse_integer.py" - Given a 32-bit signed integer, this reverses digits of an integer. This implementation does not use strings.
+
+"reverse_words.py" - Given a string, this reverses all the words in that string. This implementation does not use any inbuilt pythonic funcitons like splitting.
 
 "search_insert.py" - Given a sorted array and a target value, uses binary search to return the index where the target should be inserted in the array.
 
