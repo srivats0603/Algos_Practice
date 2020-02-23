@@ -1,7 +1,7 @@
 # Algos_Practice
 Practice Questions from where website like Leetcode, HackerRank amd general algorithms
 
-"add_binary.py" - takes two binary numbers as input in form of strings, and returns their sum as output as a string
+"add_binary.py" - takes two binary numbers as input in form of strings, and returns their sum as output as a string.
 
 "count_n_say.py" - Generate nth term of Count and Say sequence using iterative method.
 
@@ -36,6 +36,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 "reverse_integer.py" - Given a 32-bit signed integer, this reverses digits of an integer. This implementation does not use strings.
 
 "reverse_words.py" - Given a string, this reverses all the words in that string. This implementation does not use any inbuilt pythonic funcitons like splitting.
+
+"roman_to_int.py" - A simple algo to convert a roman number in form of a string to a decimal integer. 
 
 "search_insert.py" - Given a sorted array and a target value, uses binary search to return the index where the target should be inserted in the array.
 
