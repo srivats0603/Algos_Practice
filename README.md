@@ -25,6 +25,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "palindrome_num.py" - simple algo to determine if a number is a palindrome, without using any string conversions. 
 
+"phone_letter_combinations.py" - algo to determine the possible letter combinations given a group of digits is selected on a phone
+
 "plus_one.py" - given non-empty array of digits representing a non-negative integer, this adds one to the integer and returns the integer in array format. 
 
 "merge_intervals.py" - Given a collection of intervals, merge all overlapping intervals. This implementation is slow and uses lot of memory, needs to be simplified.
