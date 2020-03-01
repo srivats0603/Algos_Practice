@@ -25,6 +25,10 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "palindrome_num.py" - simple algo to determine if a number is a palindrome, without using any string conversions. 
 
+"permute_iterative.py" - an iterative algo (without recursions) to determine all permutations of a list.
+
+"permute_recursive.py" - a recursive algo to determine all permutations of a list.
+
 "phone_letter_combinations.py" - algo to determine the possible letter combinations given a group of digits is selected on a phone
 
 "plus_one.py" - given non-empty array of digits representing a non-negative integer, this adds one to the integer and returns the integer in array format. 
