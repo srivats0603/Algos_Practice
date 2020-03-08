@@ -27,7 +27,9 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "permute_iterative.py" - an iterative algo (without recursions) to determine all permutations of a list.
 
-"permute_recursive.py" - a recursive algo to determine all permutations of a list.
+"permute_recursive.py" - a recursive algo to determine all permutations of a list of integers.
+
+"permute_recursive_with_duplicates.py" - a recursive algo to determine all permutations of a list of integers, which may have duplicates.
 
 "phone_letter_combinations.py" - algo to determine the possible letter combinations given a group of digits is selected on a phone
 
