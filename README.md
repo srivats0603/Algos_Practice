@@ -62,3 +62,5 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 "valid_anagram_hash.py" - Given two strings, find if one string is a valid anagram of the other, using hashmap implementation and O(n) time. 
 
 "valid_parentheses.py" - Given a string, check if different types of paranthesis are balanced. 
+
+"word_pattern.py" - Given a pattern and a string , this code finds whether the string follows the same pattern.
