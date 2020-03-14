@@ -3,6 +3,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "add_binary.py" - takes two binary numbers as input in form of strings, and returns their sum as output as a string.
 
+"contains_duplicate.py" - fast algorithm to check if a list of integers contains any duplicates.
+
 "count_n_say.py" - Generate nth term of Count and Say sequence using iterative method.
 
 "fibonacci.py" - Generate fibonacci nth term using simple recursion.
