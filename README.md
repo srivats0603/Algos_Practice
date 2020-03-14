@@ -13,6 +13,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "insertion_sort.py" - Basic insertion sort algorithm. 
 
+"isomorphic_strings.py" - Given two strings, identifies if they are isomorphic, which means that the pattern of charactres is same for both.
+
 "length_longest_substr.py" - Given a string, find the length of the longest substring without repeating characters.
 
 "length_last_word.py" - Given a string, finds the length of last valid word (no-whitespaces).
