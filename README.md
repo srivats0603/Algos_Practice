@@ -15,6 +15,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "group_anagram.py" - From a list of strings, this code classifies all the groups of anagrams together.
 
+"h_index" - Given an array of citations per paper, find the hIndex for the author
+ 
 "insertion_sort.py" - Basic insertion sort algorithm. 
 
 "isomorphic_strings.py" - Given two strings, identifies if they are isomorphic, which means that the pattern of charactres is same for both.
