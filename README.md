@@ -5,6 +5,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "contains_duplicate.py" - fast algorithm to check if a list of integers contains any duplicates.
 
+"contains_nearby_duplicate.py" - fast algorithm to check if a list of integers contains any duplicates within a distance k.
+
 "count_n_say.py" - Generate nth term of Count and Say sequence using iterative method.
 
 "fibonacci.py" - Generate fibonacci nth term using simple recursion.
