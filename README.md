@@ -31,6 +31,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "merge_arrays.py" - Basic merge O(log(m+n)) algorithm for merging two sorted lists. 
 
+"merge_sort.py" - Basic merge sort O(nlog(n)) algorithm for a list with length n.
+
 "palindrome_num.py" - simple algo to determine if a number is a palindrome, without using any string conversions. 
 
 "permute_iterative.py" - an iterative algo (without recursions) to determine all permutations of a list.
