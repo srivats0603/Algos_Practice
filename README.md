@@ -61,6 +61,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "reverse_integer.py" - Given a 32-bit signed integer, this reverses digits of an integer. This implementation does not use strings.
 
+"reverse_string.py" - Simple O(n) algo to reverse a string. 
+ 
 "reverse_words.py" - Given a string, this reverses all the words in that string. This implementation does not use any inbuilt pythonic funcitons like splitting.
 
 "roman_to_int.py" - A simple algo to convert a roman number in form of a string to a decimal integer. 
