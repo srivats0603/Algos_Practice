@@ -27,6 +27,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "isomorphic_strings.py" - Given two strings, identifies if they are isomorphic, which means that the pattern of charactres is same for both.
 
+"is_power_of_K.py" - Given two integers num and k, this algo finds if num is a power of k.
+ 
 "length_longest_substr.py" - Given a string, find the length of the longest substring without repeating characters.
 
 "length_last_word.py" - Given a string, finds the length of last valid word (no-whitespaces).
