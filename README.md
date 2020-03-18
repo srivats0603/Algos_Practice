@@ -3,6 +3,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "add_binary.py" - takes two binary numbers as input in form of strings, and returns their sum as output as a string.
 
+"add_digits.py" - algo to recursively add all digits of a number.
+
 "contains_duplicate.py" - fast algorithm to check if a list of integers contains any duplicates.
 
 "contains_nearby_duplicate.py" - fast algorithm to check if a list of integers contains any duplicates within a distance k.
@@ -18,6 +20,10 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 "h_index" - Given an array of citations per paper, find the hIndex for the author
  
 "insertion_sort.py" - Basic insertion sort algorithm. 
+
+"intersection_arrays.py" - Algo to find all the unique elements from the intersection set of two arrays.
+
+"intersection_arrays_dup.py" - Algo to find all the elements from the intersection set of two arrays. 
 
 "isomorphic_strings.py" - Given two strings, identifies if they are isomorphic, which means that the pattern of charactres is same for both.
 
