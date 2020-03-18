@@ -73,6 +73,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "search_insert.py" - Given a sorted array and a target value, uses binary search to return the index where the target should be inserted in the array.
 
+"sqrt_func.py" - Given a number, this algo finds its square root, without using inbuilt libraries.
+
 "strStr.py" - needle and haystack problem, find the position of substring in a string, and return -1 if it does not exist.
 
 "string_to_integer.py" - this implements a function which converts a string into the integer (assuming 32 bit machine), similar to "atoi"
