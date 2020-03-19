@@ -15,6 +15,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "fibonacci_memo.py" - Generate fibonacci nth term using recursion and memoization.
 
+"first_unique_character.py" - Given a string with repeated characters, this algo finds the first character which is unique in the string. 
+
 "group_anagram.py" - From a list of strings, this code classifies all the groups of anagrams together.
 
 "h_index" - Given an array of citations per paper, find the hIndex for the author
@@ -57,6 +59,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "merge_intervals.py" - Given a collection of intervals, merge all overlapping intervals. This implementation is slow and uses lot of memory, needs to be simplified.
 
+"missing_number.py" - Given a set of unique n-1 numbers from 0 to n, this algo identifies the missing number
+
 "multipy_string.py" - Given two integers in form of strings, this multiplies and returns an integer without explicit string to integer conversion.
 
 "remv_duplicates.py" - Given a sorted array, removes the duplicates in-place such that each element appear only once and returns the new length.
@@ -72,6 +76,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 "roman_to_int.py" - A simple algo to convert a roman number in form of a string to a decimal integer. 
 
 "search_insert.py" - Given a sorted array and a target value, uses binary search to return the index where the target should be inserted in the array.
+
+"single_number.py" - Given an array of numbers where all but one elements have duplicates, these algos find the only non-duplicate element.
 
 "sqrt_func.py" - Given a number, this algo finds its square root, without using inbuilt libraries.
 
