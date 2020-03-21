@@ -17,7 +17,9 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "fibonacci_memo.py" - Generate fibonacci nth term using recursion and memoization.
 
-"first_unique_character.py" - Given a string with repeated characters, this algo finds the first character which is unique in the string. 
+"first_unique_character.py" - Given a string with repeated characters, this algo finds the first character which is unique in the string.
+
+"frequency_sort.py" - Given a string with repeated charactes, this algorithm sorts the string in the descending order of the frequency of characters.  
 
 "group_anagram.py" - From a list of strings, this code classifies all the groups of anagrams together.
 
