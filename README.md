@@ -11,6 +11,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "count_n_say.py" - Generate nth term of Count and Say sequence using iterative method.
 
+"different_character.py" - Given two strings find the characters which are only available in one of those two strings.
+
 "fibonacci.py" - Generate fibonacci nth term using simple recursion.
 
 "fibonacci_memo.py" - Generate fibonacci nth term using recursion and memoization.
@@ -78,6 +80,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 "search_insert.py" - Given a sorted array and a target value, uses binary search to return the index where the target should be inserted in the array.
 
 "single_number.py" - Given an array of numbers where all but one elements have duplicates, these algos find the only non-duplicate element.
+
+"solution_unique_char.py" - Given a string of characters, this algo finds the first charcter which is unique in the string.
 
 "sqrt_func.py" - Given a number, this algo finds its square root, without using inbuilt libraries.
 
