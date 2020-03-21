@@ -9,7 +9,11 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "contains_nearby_duplicate.py" - fast algorithm to check if a list of integers contains any duplicates within a distance k.
 
+"coin_arrangement.py" - Given n, algo finds the total number of full staircase rows that can be formed.
+
 "count_n_say.py" - Generate nth term of Count and Say sequence using iterative method.
+
+"count_segments.py" - This algo counts the number of segments in a string, where a segment is defined to be a contiguous sequence of non-space characters.
 
 "different_character.py" - Given two strings find the characters which are only available in one of those two strings.
 
