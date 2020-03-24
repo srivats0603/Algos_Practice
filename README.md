@@ -30,6 +30,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 "group_anagram.py" - From a list of strings, this code classifies all the groups of anagrams together.
 
 "h_index" - Given an array of citations per paper, find the hIndex for the author
+
+"hamming_distance" - Simple algo to find the hamming distance between two integers
  
 "insertion_sort.py" - Basic insertion sort algorithm. 
 
