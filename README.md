@@ -17,6 +17,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "different_character.py" - Given two strings find the characters which are only available in one of those two strings.
 
+"ds_linked_list.py" - a simple class implementing linked list and few important methods like insert head-tail, iterate through the list
+
 "fibonacci.py" - Generate fibonacci nth term using simple recursion.
 
 "fibonacci_memo.py" - Generate fibonacci nth term using recursion and memoization.
