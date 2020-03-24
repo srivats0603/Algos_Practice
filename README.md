@@ -55,6 +55,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "merge_arrays.py" - Basic merge O(log(m+n)) algorithm for merging two sorted lists. 
 
+"merge_linked_list.py" - Basic merge O(log(m+n)) algorithm for merging two sorted linked lists.
+
 "merge_sort.py" - Basic merge sort O(nlog(n)) algorithm for a list with length n.
 
 "palindrome_num.py" - simple algo to determine if a number is a palindrome, without using any string conversions. 
@@ -80,6 +82,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 "remv_elem.py" - Given an array nums and a value val, this removes all instances of that value in-place and returns the new length
 
 "reverse_integer.py" - Given a 32-bit signed integer, this reverses digits of an integer. This implementation does not use strings.
+
+"reverse_linked_list.py" - An iterative algo to reverse a linkedlist. 
 
 "reverse_string.py" - Simple O(n) algo to reverse a string. 
  
