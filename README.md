@@ -53,6 +53,16 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "length_last_word.py" - Given a string, finds the length of last valid word (no-whitespaces).
 
+"linked_list_binary_to_decimal.py" - this algo converts a binary number represented in a linked list to decimal.
+
+"linked_list_detect_cycle.py" - this algo detects if there is a cycle in a linkedlist.
+
+"linked_list_intersection_node.py" - this algo determines the intersection node of two linked lists.
+
+"linked_list_palindrome.py" - this algo finds if the number represented by a linked list is a palindrome. 
+
+"linked_list_remove_elements.py" - given a linked list and a target value, this algo deletes all the occurences of the nodes having that value in the list. 
+
 "long_common_prefix.py" - This finds the longest common prefix string amongst an array of strings.
 
 "median_sorted_arrays.py" - This finds the median of two sorted arrays using merge sort in O(log(m+n)). 
