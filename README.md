@@ -73,6 +73,10 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "merge_sort.py" - Basic merge sort O(nlog(n)) algorithm for a list with length n.
 
+"merge_sort_linked_list.py" - Basic merge sort O(nlog(n)) algorithm for a linked list with length n.
+
+"odd_even_list.py" - Given a linked list, this algorithm groups odd numbered and even numbered positioned nodes together.
+
 "palindrome_num.py" - simple algo to determine if a number is a palindrome, without using any string conversions. 
 
 "permute_iterative.py" - an iterative algo (without recursions) to determine all permutations of a list.
@@ -98,6 +102,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 "reverse_integer.py" - Given a 32-bit signed integer, this reverses digits of an integer. This implementation does not use strings.
 
 "reverse_linked_list.py" - An iterative algo to reverse a linkedlist. 
+
+"reverse_linked_list_II.py" - An algo to reverse elements from position m to position n in a linked list.
 
 "reverse_string.py" - Simple O(n) algo to reverse a string. 
  
