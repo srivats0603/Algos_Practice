@@ -79,6 +79,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "palindrome_num.py" - simple algo to determine if a number is a palindrome, without using any string conversions. 
 
+"partition_linked_list.py" - given a linked list and a number x, this O(n) algorithm reorders the linked list such that all the numbers lower than x precede the numbers greater"
+
 "permute_iterative.py" - an iterative algo (without recursions) to determine all permutations of a list.
 
 "permute_recursive.py" - a recursive algo to determine all permutations of a list of integers.
@@ -95,7 +97,9 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "multipy_string.py" - Given two integers in form of strings, this multiplies and returns an integer without explicit string to integer conversion.
 
-"remv_duplicates.py" - Given a sorted array, removes the duplicates in-place such that each element appear only once and returns the new length.
+"remv_duplicates.py" - Given a sorted array, this algo removes the duplicates in-place such that each element appear only once and returns the new length.
+
+"remv_duplicates_linked_list.py" - Given a sorted linked list, this algo removes all the nodes whose value appears more than once in the list.
 
 "remv_elem.py" - Given an array nums and a value val, this removes all instances of that value in-place and returns the new length
 
