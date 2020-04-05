@@ -39,6 +39,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
  
 "insertion_sort.py" - Basic insertion sort algorithm. 
 
+"insertion_sort_linked_list.py" - Insertion sort algorithm for linked lists. 
+
 "intersection_arrays.py" - Algo to find all the unique elements from the intersection set of two arrays.
 
 "intersection_arrays_dup.py" - Algo to find all the elements from the intersection set of two arrays. 
@@ -120,6 +122,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 "single_number.py" - Given an array of numbers where all but one elements have duplicates, these algos find the only non-duplicate element.
 
 "solution_unique_char.py" - Given a string of characters, this algo finds the first charcter which is unique in the string.
+
+"sorted_squares.py" - Given a list, this algorithm returns a list with squares of the elements in input list, in a sorted order.
 
 "sqrt_func.py" - Given a number, this algo finds its square root, without using inbuilt libraries.
 

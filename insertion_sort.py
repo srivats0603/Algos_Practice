@@ -20,3 +20,19 @@ class Solution_insertion_sort():
         list_to_be_sorted[0] = element_to_be_checked
       print("sorted array in this step",list_to_be_sorted)
     return list_to_be_sorted
+
+  def insertion_sort_list(self,list1):
+    len_list1 = len(list1)
+    for i in range(1,len_list1):
+      j = i-1
+    while (j>=0):
+      if list1[i] < list1[j]:
+        temp = list1[j]
+        list1[j] = list1[i]
+        list1[i] = temp
+        print("new list", list1)
+        i = j
+        j = i-1
+      else:
+        j = j-1
+    return list1 
