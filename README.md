@@ -15,6 +15,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "count_segments.py" - This algo counts the number of segments in a string, where a segment is defined to be a contiguous sequence of non-space characters.
 
+"custom_sort_string.py" - This algo sorts a string T based on the custom order given in string S.
+
 "different_character.py" - Given two strings find the characters which are only available in one of those two strings.
 
 "ds_linked_list.py" - a simple class implementing linked list and few important methods like insert head-tail, iterate through the list
@@ -100,6 +102,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 "multipy_string.py" - Given two integers in form of strings, this multiplies and returns an integer without explicit string to integer conversion.
 
 "remv_duplicates.py" - Given a sorted array, this algo removes the duplicates in-place such that each element appear only once and returns the new length.
+
+"remv_duplicates_II.py" - Given a sorted array, this algo removes the duplicates in-place such that each element appear not more than two times and returns the new length.
 
 "remv_duplicates_linked_list.py" - Given a sorted linked list, this algo removes all the nodes whose value appears more than once in the list.
 
