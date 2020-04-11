@@ -15,9 +15,15 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "count_segments.py" - This algo counts the number of segments in a string, where a segment is defined to be a contiguous sequence of non-space characters.
 
+"count_negatives_2d_array.py" - Given a 2d array where all rows and columns are sorted, this algo finds the total number of negative elements in the array.
+
+"create_taraget_array.py" - given a set of numbers to be inserted at a given set of positions in an array, this class includes two methods to perform these operations. 
+
 "custom_sort_string.py" - This algo sorts a string T based on the custom order given in string S.
 
 "different_character.py" - Given two strings find the characters which are only available in one of those two strings.
+
+"diff_prod_n_sum.py" - Given a number, find the difference between the product of the its digits and the sum of its digits.
 
 "ds_linked_list.py" - a simple class implementing linked list and few important methods like insert head-tail, iterate through the list
 
@@ -28,6 +34,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 "fibonacci.py" - Generate fibonacci nth term using simple recursion.
 
 "fibonacci_memo.py" - Generate fibonacci nth term using recursion and memoization.
+
+"find_even_digit_numbers.py" - Given a list of numbers, there are two different methods in this class to find all the numbers with even number of digits.
 
 "first_unique_character.py" - Given a string with repeated characters, this algo finds the first character which is unique in the string.
 
@@ -95,6 +103,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "plus_one.py" - given non-empty array of digits representing a non-negative integer, this adds one to the integer and returns the integer in array format. 
 
+"maximum_number_96.py" - given a number consisting of only two digits, 9's and 6's, this algorithm converts the number into the maximum number formed by flipping one 6 digit to 9.
+
 "merge_intervals.py" - Given a collection of intervals, merge all overlapping intervals. This implementation is slow and uses lot of memory, needs to be simplified.
 
 "missing_number.py" - Given a set of unique n-1 numbers from 0 to n, this algo identifies the missing number
@@ -123,17 +133,25 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "search_insert.py" - Given a sorted array and a target value, uses binary search to return the index where the target should be inserted in the array.
 
+"self_dividing_numbers.py" - Algo to determine self dividing numbers within a range. A self dividing number is divisible by all its digits.
+
 "single_number.py" - Given an array of numbers where all but one elements have duplicates, these algos find the only non-duplicate element.
 
 "solution_unique_char.py" - Given a string of characters, this algo finds the first charcter which is unique in the string.
 
 "sorted_squares.py" - Given a list, this algorithm returns a list with squares of the elements in input list, in a sorted order.
 
+"split_string_balanced.py" - Given a string consisting of R's and L's, this O(n) algorithm splits the string into balanced substrings having equal number of R's and L's.
+
 "sqrt_func.py" - Given a number, this algo finds its square root, without using inbuilt libraries.
 
 "strStr.py" - needle and haystack problem, find the position of substring in a string, and return -1 if it does not exist.
 
 "string_to_integer.py" - this implements a function which converts a string into the integer (assuming 32 bit machine), similar to "atoi"
+
+"sum_zero_array.py" - given a number n, this method generates an integer array of size n, which sums to zero.
+
+"to_lower_case.py" - this is a python implementation of tolowerCase() method, which converts all the characters in a digit to lower case. 
 
 "two_sum_easy.py" - Given an array of integers, returns indices of the two numbers such that they add up to a specific target.
 
