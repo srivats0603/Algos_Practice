@@ -87,6 +87,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "merge_sort_linked_list.py" - Basic merge sort O(nlog(n)) algorithm for a linked list with length n.
 
+"num_unique_emails.py" - Given a list of emails, this is a pythonic method for find all the unique emails in the list. Description in leetcode - 929. 
+
 "odd_even_list.py" - Given a linked list, this algorithm groups odd numbered and even numbered positioned nodes together.
 
 "palindrome_num.py" - simple algo to determine if a number is a palindrome, without using any string conversions. 
