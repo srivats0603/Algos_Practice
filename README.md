@@ -87,7 +87,7 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "merge_sort_linked_list.py" - Basic merge sort O(nlog(n)) algorithm for a linked list with length n.
 
-"num_unique_emails.py" - Given a list of emails, this is a pythonic method for find all the unique emails in the list. Description in leetcode - 929. 
+"num_unique_emails.py" - Given a list of emails, this is a pythonic method for find all the unique emails in the list. Description in leetcode - 929.
 
 "odd_even_list.py" - Given a linked list, this algorithm groups odd numbered and even numbered positioned nodes together.
 
@@ -112,6 +112,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 "missing_number.py" - Given a set of unique n-1 numbers from 0 to n, this algo identifies the missing number
 
 "multipy_string.py" - Given two integers in form of strings, this multiplies and returns an integer without explicit string to integer conversion.
+
+"remv_adjacent_duplicates.py" - This class has a set of two methods to remove all the adjacent duplicates from a string. Description in leetcode -1047.
 
 "remv_duplicates.py" - Given a sorted array, this algo removes the duplicates in-place such that each element appear only once and returns the new length.
 
