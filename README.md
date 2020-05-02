@@ -35,6 +35,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "fibonacci_memo.py" - Generate fibonacci nth term using recursion and memoization.
 
+"find_common_characters.py" - Given a list of strings, this algorithm finds the common characters between them.
+
 "find_even_digit_numbers.py" - Given a list of numbers, there are two different methods in this class to find all the numbers with even number of digits.
 
 "first_unique_character.py" - Given a string with repeated characters, this algo finds the first character which is unique in the string.
