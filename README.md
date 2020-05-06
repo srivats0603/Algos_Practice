@@ -59,6 +59,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "isomorphic_strings.py" - Given two strings, identifies if they are isomorphic, which means that the pattern of charactres is same for both.
 
+"is_boomerang.py" - Given three cartesian coordinates as a list, this algo determines if these points are not in a straight line.
+
 "is_power_of_K.py" - Given two integers num and k, this algo finds if num is a power of k.
 
 "is_perfect_square.py" - Given an integer, this algo finds if this number is a perfect square.
