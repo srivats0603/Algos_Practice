@@ -91,6 +91,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "merge_sort_linked_list.py" - Basic merge sort O(nlog(n)) algorithm for a linked list with length n.
 
+"merge_two_trees.py" - takes two trees as an input, and returns a third merged tree such that the node values of the two trees is the sum of node values of the input trees.
+
 "num_unique_emails.py" - Given a list of emails, this is a pythonic method for find all the unique emails in the list. Description in leetcode - 929.
 
 "odd_even_list.py" - Given a linked list, this algorithm groups odd numbered and even numbered positioned nodes together.
