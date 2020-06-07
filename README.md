@@ -147,6 +147,8 @@ Practice Questions from where website like Leetcode, HackerRank amd general algo
 
 "single_number.py" - Given an array of numbers where all but one elements have duplicates, these algos find the only non-duplicate element.
 
+"smaller_numbers_than_current.py" - Given an array of numbers this algorithm returns an array, having number of elements smaller than the element at that position.
+
 "solution_unique_char.py" - Given a string of characters, this algo finds the first charcter which is unique in the string.
 
 "sorted_squares.py" - Given a list, this algorithm returns a list with squares of the elements in input list, in a sorted order.
